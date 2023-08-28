@@ -30,4 +30,4 @@ O Projeto Game of Life é uma implementação simples do famoso autômato celula
 8. A simulação continuará por tantas gerações quanto você especificou. Para encerrar o programa, feche a janela do terminal ou pressione `Ctrl+C`.
 
 Divirta-se explorando os padrões e comportamentos que emergem das regras simples deste autômato celular!
-[Link] com prints do projeto (https://github.com/TakeruuDEV/GolGameConnay/tree/main/printsPrj)
+Link com prints do projeto clique [aqui](https://github.com/TakeruuDEV/GolGameConnay/tree/main/printsPrj)
